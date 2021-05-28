@@ -1,0 +1,20 @@
+.header{
+    margin-left: 500px;
+    margin-right: 775px;
+    color: #ffffff;
+    text-align: center;
+}
+.menu{
+    border: solid;
+    margin-right: 1350px;
+    justify-content: space-between;
+}
+.main{
+    border: solid;
+    color: #ffffff;
+    background-color: black;
+    text-align: center;
+}
+body{
+    background-color: orangered;
+}
